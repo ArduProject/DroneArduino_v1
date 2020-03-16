@@ -1,4 +1,7 @@
-# DroneArduino_v1
+# DroneArduino_v1  
+
+v1: version sin control de altitud.  
+v2: vesion con control de altitud (proximamente).  
 
 Drone de 450mm completamente funcional, programado utilizando la plataforma Arduino. Control de estabilidad basado en MPU6050, y controlado con mando radio control. Esta versión no incluye control de altitud.
 
